@@ -12,12 +12,12 @@
 10. Using Our Models to Make Predictions: Improving the model by making predictions on new data. The GUI Skin Cancer Classification is the final stage, where skin cancer is classified, and a user interface is created.
 11. Skin Cancer Dataset Features: Providing information about the dataset's features and visualizing the selected image to determine the likelihood and percentage of which cancer type it belongs to in the Result section. The cancer type with the highest probability is marked, and the values related to the image are listed in the Features section.
 
-Libraries and Technologies
-Python
-NumPy & Pandas
-Matplotlib & Seaborn
-Tkinter
-Keras
+Libraries and Technologies: 
+Python, 
+NumPy & Pandas, 
+Matplotlib & Seaborn, 
+Tkinter, 
+Keras, 
 
 ![image](https://github.com/busraCin/SkinCancerClassification/assets/69642923/1815913c-2088-4b31-a3ef-e96a260cc51b)
 
